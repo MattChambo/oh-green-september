@@ -360,7 +360,7 @@ footer #copyright {
 	}
 	
 	.about-me {
-		margin-bottom: 300px !important;
+		margin-bottom: 450px !important;
 	}
 }
 
@@ -378,6 +378,7 @@ footer #copyright {
 		float: right;
 		margin-right: 50px;
 		margin-top: 0;
+		margin-left: 0;
 	}
 
 	.unslider {
